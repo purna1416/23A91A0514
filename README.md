@@ -1,6 +1,6 @@
 <div align="center">
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FF99&height=200&section=header&text=Aditya&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FF99&height=200&section=header&text=M@HE$H❤️‍🔥&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 
 <!-- Typing Animation -->
