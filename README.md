@@ -8,17 +8,17 @@
 
 <!-- Profile Views -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=adityaram544&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=23A91A0514&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-ram-narala-616a63325/">
+  <a href="https://www.linkedin.com/in/mahesh-dhulipudi-846067291/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
   </a>
-  <a href="https://instagram.com/mr_aditya_1436">
+  <a href="https://instagram.com/cheguevara_1416">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
   </a>
-  <a href="mailto:adityaram2005adi@gmail.com">
+  <a href="mailto:maheshdhulipudi2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
   </a>
 </p>
