@@ -35,7 +35,7 @@
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
 ```javascript
-const aditya = {
+const mahesh = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
     currentFocus: ["DSA & LeetCode 🎯", "Full Stack Projects (MERN) ⚡"],
@@ -120,8 +120,8 @@ const aditya = {
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adityaram544&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Adityaram544&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=23A91A0514&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=23A91A0514&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" />
 </div>
 
 
